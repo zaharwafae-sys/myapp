@@ -1,0 +1,6 @@
+{
+  "name": "Adam Barcode Master",
+  "description": "Full-featured Barcode and QR scanner & generator app developed by Adam Xit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
